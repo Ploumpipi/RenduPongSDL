@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Ludus\Ludus Bachelor\Algo\Test_SDL\Test_SDL\main.cpp(125,43): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+D:\Ludus\Ludus Bachelor\Algo\Test_SDL\Test_SDL\main.cpp(132,44): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  Test_SDL.vcxproj -> D:\Ludus\Ludus Bachelor\Algo\Test_SDL\x64\Debug\Test_SDL.exe
